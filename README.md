@@ -165,9 +165,10 @@ Hover over charts to view detailed values.
 Adjust filters to focus on specific time periods, cities, or categories.
 
 🖼️ Dashboard Previews
+
 🦠Real Mart Sales Dashboard.png
 
-🛒 Real Mart Sales Dashboard.png
+🛒 [Real Mart Sales Dashboard.png](https://github.com/Kiran12467/Excel-Project-Dashboards/blob/main/Real%20Mart%20Sales%20Dashboard.png)
 
 🏁 Summary
 
