@@ -165,9 +165,9 @@ Hover over charts to view detailed values.
 Adjust filters to focus on specific time periods, cities, or categories.
 
 🖼️ Dashboard Previews
-🦠 Covid-19 Dashboard
+🦠Real Mart Sales Dashboard.png
 
-🛒 Real Mart Sales Analysis Dashboard
+🛒 Real Mart Sales Dashboard.png
 
 🏁 Summary
 
